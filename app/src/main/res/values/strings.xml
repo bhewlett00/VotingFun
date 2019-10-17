@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">School of Rock</string>
+    <string name="action_settings">Settings</string>
+    <string name="song">Song</string>
+    <string name="voter">Voter</string>
+    <string name="dislike">Dislike</string>
+    <string name="like">Like</string>
+    <string-array name="songs">
+        <item></item>
+        <item>Stairway to Heaven</item>
+        <item>Born to be Wild</item>
+        <item>Free Bird</item>
+        <item>Sweet Home Alabama</item>
+        <item>Light My Fire</item>
+    </string-array>
+</resources>

@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.votingfun.MainActivity">
+    <item
+        android:id="@+id/action_like"
+        android:title="@string/like"
+        app:showAsAction="always"
+        android:onClick="likeSong"/>
+    <item
+        android:id="@+id/action_dislike"
+        android:title="@string/dislike"
+        app:showAsAction="always"
+        android:onClick="dislikeSong"/>
+</menu>
